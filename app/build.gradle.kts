@@ -102,7 +102,7 @@ android {
         }
     }
 
-    val baseAppName = BuildTimeConfig.APPLICATION_NAME
+    val baseAppName = "WhatsApp"
     logger.warnInBox("Building ${defaultConfig.applicationId} ($baseAppName)")
 
     buildTypes {
