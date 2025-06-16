@@ -23,12 +23,12 @@ object ApplicationConfig {
      * Cannot be empty.
      * For Element, the value is "Element".
      */
-    const val PRODUCTION_APPLICATION_NAME: String = "WhatsApp"
+    const val PRODUCTION_APPLICATION_NAME: String = "Telegram"
 
     /**
      * Used in the strings to reference the Element Desktop client, for instance Element Web.
      * Cannot be empty.
      * For Element, the value is "Element". We use the same name for desktop and mobile for now.
      */
-    const val DESKTOP_APPLICATION_NAME: String = "WhatsApp"
+    const val DESKTOP_APPLICATION_NAME: String = "Telegram"
 }
