@@ -24,7 +24,7 @@ open class OnBoardingStateProvider : PreviewParameterProvider<OnBoardingState> {
 }
 
 fun anOnBoardingState(
-    productionApplicationName: String = "WhatsApp",
+    productionApplicationName: String = "Telegram",
     defaultAccountProvider: String? = null,
     mustChooseAccountProvider: Boolean = false,
     canLoginWithQrCode: Boolean = false,
