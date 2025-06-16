@@ -102,7 +102,7 @@ android {
         }
     }
 
-    val baseAppName = "WhatsApp"
+    val baseAppName = "Telegram"
     logger.warnInBox("Building ${defaultConfig.applicationId} ($baseAppName)")
 
     buildTypes {
