@@ -102,7 +102,7 @@ android {
         }
     }
 
-    val baseAppName = "Telegram"
+    val baseAppName = "Viber"
     logger.warnInBox("Building ${defaultConfig.applicationId} ($baseAppName)")
 
     buildTypes {
